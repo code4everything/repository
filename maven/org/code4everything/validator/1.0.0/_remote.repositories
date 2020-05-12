@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 12 21:16:02 CST 2020
+validator-1.0.0.pom>=
+validator-1.0.0.jar>=
